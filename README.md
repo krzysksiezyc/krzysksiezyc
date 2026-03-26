@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krzysztof Ksiezyc
+# Hi, I'm Krzysztof Ksiezyc
 
 ### Football Data Analyst & Data Science modeller
 ### Machine/Deep Learning • Match Evaluation Models • Data-driven models
@@ -11,7 +11,7 @@ In 2025, I defended my Master’s thesis on:
 
 I have completed multiple professional football-analytics projects, ranging from player evaluation systems to advanced time-series modelling of match events.
 I also regularly publish **football analytics & machine learning articles on Medium**, where I break down models, methodologies and applied ML techniques:  
-📄 **https://medium.com/@kksiezyc8**
+**https://medium.com/@kksiezyc8**
 
 ## Areas of Expertise
 
@@ -22,22 +22,8 @@ I also regularly publish **football analytics & machine learning articles on Med
 - Econometrics & advanced statistical modelling  
 - Data analysis in Python & R  
 - Visualization & dashboards 
-- SQL-based data processing  
-
----
-
-## 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48"/> --!>
-</p>
-
+- SQL-based data processing
+  
 ---
 ## Selected Football Analytics Work
 
